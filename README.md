@@ -11,7 +11,7 @@ git clone https://github.com/YgoRSX9W/SX9W-PHS.git
 cd SX9W-PHS 
 unzip SX9W-PHS.zip
 cd SX9W-PHS 
-chmod +x SX9W-PHS3.sh
+chmod +x SX9W-PHS.sh
 bash SX9W-PHS3.sh
 ---------------------------------------------------
 
